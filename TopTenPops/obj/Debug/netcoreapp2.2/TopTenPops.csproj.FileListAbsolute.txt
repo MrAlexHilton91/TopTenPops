@@ -1,0 +1,11 @@
+C:\Users\ahilton\source\repos\TopTenPops\TopTenPops\bin\Debug\netcoreapp2.2\TopTenPops.deps.json
+C:\Users\ahilton\source\repos\TopTenPops\TopTenPops\bin\Debug\netcoreapp2.2\TopTenPops.runtimeconfig.json
+C:\Users\ahilton\source\repos\TopTenPops\TopTenPops\bin\Debug\netcoreapp2.2\TopTenPops.runtimeconfig.dev.json
+C:\Users\ahilton\source\repos\TopTenPops\TopTenPops\bin\Debug\netcoreapp2.2\TopTenPops.dll
+C:\Users\ahilton\source\repos\TopTenPops\TopTenPops\bin\Debug\netcoreapp2.2\TopTenPops.pdb
+C:\Users\ahilton\source\repos\TopTenPops\TopTenPops\obj\Debug\netcoreapp2.2\TopTenPops.csprojAssemblyReference.cache
+C:\Users\ahilton\source\repos\TopTenPops\TopTenPops\obj\Debug\netcoreapp2.2\TopTenPops.csproj.CoreCompileInputs.cache
+C:\Users\ahilton\source\repos\TopTenPops\TopTenPops\obj\Debug\netcoreapp2.2\TopTenPops.AssemblyInfoInputs.cache
+C:\Users\ahilton\source\repos\TopTenPops\TopTenPops\obj\Debug\netcoreapp2.2\TopTenPops.AssemblyInfo.cs
+C:\Users\ahilton\source\repos\TopTenPops\TopTenPops\obj\Debug\netcoreapp2.2\TopTenPops.dll
+C:\Users\ahilton\source\repos\TopTenPops\TopTenPops\obj\Debug\netcoreapp2.2\TopTenPops.pdb
