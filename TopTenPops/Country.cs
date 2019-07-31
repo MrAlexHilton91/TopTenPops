@@ -6,6 +6,7 @@ namespace TopTenPops
 {
     class Country
     {
+
         public string Name { get; }
         public string Code { get; }
         public string Region { get; }
@@ -18,5 +19,7 @@ namespace TopTenPops
             Region = region;
             Population = population;
         }
+
+
     }
 }
